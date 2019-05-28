@@ -36,3 +36,10 @@ P -> S</br>
 S -> S lub S -> D (odrośnięcie drzewa) z prawdopodobieństwem p3.</br>
 
 -----------------------------------------
+<h2>Zadanie 4.</h2> (do 13.06.2019)
+
+<b>(4p)</b> Napisz krótką notatkę, która przedstawi działanie, ciekawostki, bądź inne kwestie związane z popularnym i szeroko wykorzystywanym algorytmem wyszukiwania ścieżek (tzw. pathfinding) - A*.</br>Wymagania: 1-2 strony formatu A4.
+
+<b>(5p)</b> Napisz program, który przedstawi działanie ww. algorytmu A*.</br>Wymagania: implementacja algorytmu A*, dowolny interfejs graficzny.
+
+-----------------------------------------
